@@ -1,0 +1,6 @@
+c:\users\lorenzo\documents\visual studio 2015\Projects\FileEncoder2\FileEncoder2\bin\Debug\FileEncoder2.exe.config
+C:\Users\Lorenzo\Documents\Visual Studio 2015\Projects\FileEncoder2\FileEncoder2\bin\Debug\FileEncoder2.exe
+C:\Users\Lorenzo\Documents\Visual Studio 2015\Projects\FileEncoder2\FileEncoder2\bin\Debug\FileEncoder2.pdb
+C:\Users\Lorenzo\Documents\Visual Studio 2015\Projects\FileEncoder2\FileEncoder2\obj\Debug\FileEncoder2.csprojResolveAssemblyReference.cache
+C:\Users\Lorenzo\Documents\Visual Studio 2015\Projects\FileEncoder2\FileEncoder2\obj\Debug\FileEncoder2.exe
+C:\Users\Lorenzo\Documents\Visual Studio 2015\Projects\FileEncoder2\FileEncoder2\obj\Debug\FileEncoder2.pdb
